@@ -3,12 +3,16 @@ A curious and driven enthusiast in **Data Science**, **Machine Learning**, and *
 
 ---
 
-💡 **About Me**  
-- 🎓 Informatics Graduate | GPA 3.96 | Class of 2024  
-- 🤖 Completed ML Tracks at Bangkit Academy & Dicoding  
-- 🧪 AI/Data Science Research Assistant (1.8+ years experience)  
-- 📊 Internship experience in Data Science & Machine Learning  
-- ✍️ Content Writer | Bootcamp Graduate | Python Enthusiast  
+## 💼 What I Do
+- 📊 Analyzing data to uncover insights and trends
+- 🤖 Building Machine Learning models with Scikit-Learn, PyCaret, and Pandas
+- 📚 Sharing knowledge through blog articles on [Medium](https://medium.com/@atikansh20)
+- 🧠 Learning and experimenting with AI concepts
+
+### 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adstika20&layout=compact&theme=default)
+
 
 ---
 
