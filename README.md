@@ -3,12 +3,10 @@ A curious and driven enthusiast in **Data Science**, **Machine Learning**, and *
 
 ---
 
-## 💼 What I Do
-- 📊 Analyzing data to uncover insights and trends
-- 🤖 Building Machine Learning models with Scikit-Learn, PyCaret, and Pandas
-- 🧠 Learning and experimenting with AI concepts
-
-### 📊 Most Used Languages
+## 🚀 My Focus Areas
+- 🔍 Analyzing data to uncover insights and trends
+- 🧠 Building Machine Learning models with Scikit-Learn, PyCaret, and Pandas
+- 🧪 Learning and experimenting with AI concepts
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adstika20&layout=compact&theme=default)
 
