@@ -6,7 +6,6 @@ A curious and driven enthusiast in **Data Science**, **Machine Learning**, and *
 ## 💼 What I Do
 - 📊 Analyzing data to uncover insights and trends
 - 🤖 Building Machine Learning models with Scikit-Learn, PyCaret, and Pandas
-- 📚 Sharing knowledge through blog articles on [Medium](https://medium.com/@atikansh20)
 - 🧠 Learning and experimenting with AI concepts
 
 ### 📊 Most Used Languages
