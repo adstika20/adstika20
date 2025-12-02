@@ -9,11 +9,6 @@ A curious and driven enthusiast in **Data Science**, **Machine Learning**, and *
 - Learning and experimenting with AI concepts
 
 
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adstika20&layout=compact)
-
-
 ---
 
 🛠️ **Tech Stack and Tools**  
